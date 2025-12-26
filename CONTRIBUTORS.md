@@ -18,3 +18,10 @@ This project exists because of your time, effort, and curiosity.
 
 ---
 
+## My Details
+
+- **Name:** Vansh Kumar Patel
+- **GitHub:** https://github.com/vansh216
+- **About:** I am Vansh Kumar Patel, a second-year Information Technology student at KNIT    Sultanpur. I am an aspiring MERN Stack Developer with a strong interest in building modern, user-friendly web applications. I am continuously improving my skills in MongoDB, Express.js, React.js, and Node.js and enjoy learning new technologies and working on real-world projects.
+
+
