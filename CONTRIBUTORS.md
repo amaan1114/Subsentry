@@ -76,3 +76,8 @@ This project exists because of your time, effort, and curiosity.
 - **Name:** Mukut Kumar
 - **GitHub:** https://github.com/MK-codes365
 - **About:** Second-year B.Tech student in Computer Science. Passionate about Full Stack Development and Open Source."
+
+- **Name:** Sayed Al Amaan Zaidi
+- **GitHub:** https://github.com/amaan1114
+- **About:** 1st year student in rishihood university with experience in Full Stack development.
+
