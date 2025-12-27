@@ -61,6 +61,10 @@ This project exists because of your time, effort, and curiosity.
 - **GitHub:** https://github.com/thenix09
 - **About:** First-year student at IIIT Allahabad, interested in software engineering and open-source contributions.
 
+- **Name:** Vinay Mohan
+- **GitHub:** https://github.com/vinay2047
+- **About:** Sophomore at IIITA interested in development.
+  
 - **Name:** Satwik Santosh
 - **GitHub:** https://github.com/DeadlySatwik
 - **About:** Sophomore at IIIT Allahabad (IIT2024084). Passionate about Cybersecurity, ML, and Full Stack Development, Competitive Programming."
